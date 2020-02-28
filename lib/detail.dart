@@ -13,7 +13,7 @@ class _DetailPageState extends State<DetailPage> {
         appBar: AppBar(
           backgroundColor: Colors.blue[100],
           
-          title: Text("THE BEST TASTY CAKES & JUICE ",
+          title: Text("THE BEST TASTY CAKES & JUICE Testing",
           style: TextStyle(
             color: Colors.white,
             fontSize: 20,
